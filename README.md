@@ -1,0 +1,1 @@
+# ADC_BY-Avr-atmega32
